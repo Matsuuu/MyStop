@@ -1,0 +1,58 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.departurecontainer {
+    color: #007ac9;
+    padding: 1%;
+    margin: 1%;
+    width: fit-content;
+    border-radius: 25px;
+    width: 50%;
+    line-height: 1;
+}
+
+.departurelogocontainer {
+    width: 20%;
+    height: 100%;
+    font-size: 6rem;
+}
+
+.departureslogo {
+    font-size: 6em;
+}
+
+td {
+    text-align: center;
+}
+
+.transportnum {
+    font-size: 6em;
+    margin: 0;
+}
+
+.transporttitleholder {
+    width: 75%;
+    float: right;
+}
+
+.departuredetails {
+    width: 100%;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.toolate {
+    color: #FF2323;
+}
+
+.arrivals {
+    font-size: 1.5em;
+    text-align: right;
+}
+
+.arrivals p {
+    margin: 0;
+}

@@ -1,0 +1,25 @@
+.backgroundtoggler {
+    position: fixed;
+    width: 30px;
+    height: 20px;
+    top: 0;
+    right: 0;
+    box-shadow: -1px 2px 2px 0 #424242;
+    padding: 5px;
+}
+
+.colorpicker {
+    width: 10px;
+    height: 10px;
+    border: #000 1px solid;
+    display: inline-flex;
+    cursor: pointer;
+}
+
+#white {
+    background: #FFF;
+}
+
+#black {
+    background: #000;
+}
